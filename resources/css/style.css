@@ -75,12 +75,15 @@ div {
 
 .large {
   width: 630px;
+  margin-right: 32px;
   }
 
 .medium {
   width: 300px;
+  margin-right: 32px;
   }
 
 .small {
   width: 240px;
+  margin-right: 32px;
   }
