@@ -1,0 +1,86 @@
+header {
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    border-bottom: 1px solid black;
+    z-index: 1;
+    position: fixed;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    font-family: georgia, serif;
+}
+
+.Logo {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    padding-left: 30px;
+}
+
+.LogoIcon {
+    width: 70px;
+    height: 60px;
+    margin-right: 12px;
+}
+
+.WebTitleSpan {
+    color: MediumAquamarine;
+      align-items: center;
+}
+
+.NavHead {
+      display: block;
+      color: black;
+      padding-right: 40px;
+}
+
+.navspan {
+      display: inline-block;
+      padding: 20px 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+div {
+  display: block;
+}
+
+
+
+
+.content {
+  display: flex;
+  width: 1232px;
+  margin: 0 auto 78px auto;
+  padding-top: 116px;
+}
+
+.column {
+  display: flex;
+}
+
+.large {
+  width: 630px;
+  }
+
+.medium {
+  width: 300px;
+  }
+
+.small {
+  width: 240px;
+  }
